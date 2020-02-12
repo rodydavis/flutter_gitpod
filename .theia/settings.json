@@ -1,0 +1,4 @@
+{
+    "editor.autoSave": "on",
+    "dart.flutterSdkPath": "home/gitpod/flutter/bin"
+}
